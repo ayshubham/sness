@@ -1,0 +1,43 @@
+.navbar{
+    position: absolute;
+width: 1037px;
+height: 75px;
+left: 66px;
+top: 0px;
+display: flex;
+background-color: blueviolet;
+}
+
+
+.nav-menu{
+    display: flex;
+    background-color: aqua;
+}
+
+.logo{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 14px 7px;
+
+position: absolute;
+width: 118.63px;
+height: 75px;
+left: 66px;
+top: 0px;
+}
+
+
+.nav-item{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+background-color: rgb(160, 126, 126);
+
+position: absolute;
+width: 233px;
+height: 43px;
+left: 271px;
+top: 7px;
+}
